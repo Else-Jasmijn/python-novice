@@ -1,0 +1,4 @@
+plots/
+results/
+scripts/*.ipynb_
+.ipynb_checkpoints/
